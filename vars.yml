@@ -1,0 +1,10 @@
+domain_names: 
+  - blog.robustastudio.com
+  - www.blog.robustastudio.com
+site_template_name: wordpress
+sudo_user: root
+deployer_user: robusta-blog
+deployer_group: www-data
+site_port: 80
+site_php_workers: 5
+step_state: 'NOSKIP' # 'NOSKIP', 'SKIP'
