@@ -1,9 +1,9 @@
 domain_names: 
-  - blog.robustastudio.com
-  - www.blog.robustastudio.com
+  - blog.phantasm.biz
+  - www.blog.phantasm.biz.com
 site_template_name: wordpress
 sudo_user: root
-deployer_user: robusta-blog
+deployer_user: phantasm-blog
 deployer_group: www-data
 site_port: 80
 site_php_workers: 5
